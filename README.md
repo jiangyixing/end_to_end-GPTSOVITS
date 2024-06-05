@@ -3,7 +3,8 @@
 端到端的声音克隆：即输入原音频(1分钟就可以，时间越长越好)和结果输出的音频命名，执行相应脚本，等待程序执行完成，即可得到克隆结果和模型。
 
 项目1：声音克隆的训练一体化整合项目以及API。
-下载链接：https://pan.quark.cn/s/e66ae87e6075(虚拟环境包脚本链接：https://pan.quark.cn/s/bf2511f7b1fc)
+下载链接：https://pan.quark.cn/s/e66ae87e6075
+(虚拟环境包脚本链接：https://pan.quark.cn/s/bf2511f7b1fc)
 
 项目2：声音克隆的推理一体化整合项目以及API。
 下载链接：https://pan.quark.cn/s/b1d347574219
