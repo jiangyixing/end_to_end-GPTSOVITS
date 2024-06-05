@@ -62,10 +62,7 @@
 8.脚本说明：
 （1）核心脚本为end_to_end.py,集成了训练过程中的每个流程。输入是原音频和结果命名。输出是克隆音频的demo。其次将模型文件保存再output文件夹中。
 
-（2）api.py
-            将ip改为本机ip
-
-            接口文档件附件1，生成的内容做成了另一个回调接口，用户使用时直接接到参数就行，可以不进行回调直接获取结果。链接：https://pan.quark.cn/s/f1a42572d2e4
+（2）api.py    将ip改为本机ip接口文档件附件1，生成的内容做成了另一个回调接口，用户使用时直接接到参数就行，可以不进行回调直接获取结果。链接：https://pan.quark.cn/s/f1a42572d2e4
 
 9.可能出现错误的说明：
 
@@ -87,11 +84,5 @@
 
 （1）process.py，输入是模型名称(E:\project\GPT-SoVITS-main\打包好\GPT-SoVITS\output\SOVITS_models)，需要克隆的文字，结果命名。输出是克隆的结果音频
 
-（2）api.py
-
-    将ip改为本机ip
-    
-    接口文档件附件2，生成的内容做成了另一个回调接口，用户使用可以不进行回调直接获取结果。链接：https://pan.quark.cn/s/4606f23229fe
-
-                        
+（2）api.py    将ip改为本机ip,接口文档件附件2，生成的内容做成了另一个回调接口，用户使用可以不进行回调直接获取结果。链接：https://pan.quark.cn/s/4606f23229fe.
 原文链接：https://blog.csdn.net/weixin_46412999/article/details/139474587
