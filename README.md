@@ -61,16 +61,15 @@
 
 8.脚本说明：
 （1）核心脚本为end_to_end.py,集成了训练过程中的每个流程。输入是原音频和结果命名。输出是克隆音频的demo。其次将模型文件保存再output文件夹中。
+
 （2）api.py
             将ip改为本机ip
 
-            接口文档件附件1，生成的内容做成了另一个回调接口，用户使用时直接接到参数就行，可以不进行回调直接获取结果。
-链接：https://pan.quark.cn/s/f1a42572d2e4
+            接口文档件附件1，生成的内容做成了另一个回调接口，用户使用时直接接到参数就行，可以不进行回调直接获取结果。链接：https://pan.quark.cn/s/f1a42572d2e4
 
 9.可能出现错误的说明：
-（1）nltk_data错误解决办法：
 
-    https://github.com/RVC-Boss/GPT-SoVITS/issues/848
+（1）nltk_data错误解决办法：https://github.com/RVC-Boss/GPT-SoVITS/issues/848
 
 （2）路径错误：注意绝对路径以及导包的绝对路径,UVR5的输入音频一定是绝对路径，这里已经改过
 
