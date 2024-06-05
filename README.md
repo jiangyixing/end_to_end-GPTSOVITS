@@ -4,6 +4,7 @@
 
 项目1：声音克隆的训练一体化整合项目以及API。
 下载链接：https://pan.quark.cn/s/e66ae87e6075
+
 (虚拟环境包脚本链接：https://pan.quark.cn/s/bf2511f7b1fc)
 
 项目2：声音克隆的推理一体化整合项目以及API。
