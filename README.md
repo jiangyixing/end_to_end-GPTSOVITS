@@ -10,8 +10,9 @@
 项目2：声音克隆的推理一体化整合项目以及API。
 下载链接：https://pan.quark.cn/s/5333556cdadf
 
+![1723798946409](https://github.com/user-attachments/assets/2e50a14d-bd73-45dd-ab5d-6815708aba6e)
 
-![1717582180416](https://github.com/jiangyixing/end_to_end-GPTSOVITS/assets/130124955/794e4a3e-ed12-4867-afc1-1e8441c924f1)
+
 
 项目1：项目简介
 
